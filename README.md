@@ -1,13 +1,15 @@
 
-# <h1> Business Problem</h1>  
+ <h1> Business Problem</h1>  
 
 FLO wants to segment its customers and develop marketing strategies based on these segments. To achieve this, customer behaviors will be analyzed and groups will be formed based on the clustering of these behaviors.
-![Müsteri Segmentasyonu](https://github.com/user-attachments/assets/d4d21c26-6304-41f5-9ffa-9feae668fc63)
 
-# <h1> Dataset</h1>   
+![Müsteri Segmentasyonu](https://github.com/user-attachments/assets/830d1608-f34c-4287-b564-e77831dc5879)
+
+
+<h1> Dataset</h1>   
 
 The dataset consists of information derived from the past shopping behaviors of FLO customers who made their last purchases through OmniChannel (both online and offline shopping) during the years 2020-2021.
-# <h1>Details</h1>
+<h1>Details</h1>
 <strong>12 Variables | 19.945 Observations</strong>
     
 </div>
